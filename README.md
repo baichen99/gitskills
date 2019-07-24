@@ -1,3 +1,2 @@
 # gitskills
-
-add a new line
+add new line
